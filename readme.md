@@ -35,7 +35,7 @@ This 3D solar system simulation, built with Python, PyGame, and OpenGL in a Jupy
    ```
    Open `solar_system.ipynb` and execute all cells.
 
-## Running as a Standalone Script
+## Running as a Standalone Script (Already Given)
 1. Convert the notebook to a Python script:
    ```bash
    jupyter nbconvert --to script solar_system.ipynb
